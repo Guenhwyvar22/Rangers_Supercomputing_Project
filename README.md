@@ -5,6 +5,8 @@ Use this command to install packages:
 
 pip install librosa pandas scikit-learn tensorflow
 
+pip install pyarrow
+
 newer version of librosa doesn't work so uninstall the new one and replace it with the older version:
 
 pip uninstall librosa
